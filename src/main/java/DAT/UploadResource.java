@@ -39,7 +39,7 @@ public class UploadResource {
     }
 
     //IMPORTANT: Replace with a unix path when uploading to Droplet and set permissions on the folder
-    public static final String FILE_LOCATION = "C:/Users/alexa/Documents/cph business/3. Semester/Flow 3/fileUploadTomcat/pics/";
+    public static final String FILE_LOCATION = "C:/Users/alexa/Documents/cph business/3. Semester/Flow 3/fileUpload/pics/";
 
     @Path("/file")
     @POST
